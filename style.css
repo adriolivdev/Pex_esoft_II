@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 body {
-    background-image: url(/images/background_yurisoundcar.png);
+    background-image: url(images/background_yurisoundcar.png);
     background-size: cover; /* A imagem vai cobrir todo o fundo */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita a repetição da imagem */;
