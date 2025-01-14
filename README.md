@@ -1,0 +1,1 @@
+Projeto de Extensão II do curso de Engenharia de Software, com foco em desenvolver uma landing page para a Yuri SoundCar. A página apresenta canais de atendimento (WhatsApp, Instagram, Facebook), catálogo de produtos e localização no Google Maps, visando facilitar o acesso e melhorar a experiência do cliente.
